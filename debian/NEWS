@@ -1,0 +1,11 @@
+lilo (1:24.2-5) unstable; urgency=medium
+
+ Lilo is at the end of development for some years. Finally the
+ Debian package of lilo will be marked as deprecated and will 
+ vanish as install package by the end of year 2020. Lilo will 
+ removed well before the transition freeze of bullseye.
+
+ I recommend to move to another bootloader e.g. grub2 in the
+ next months.
+  
+ -- Joachim Wiedorn <joodebian@joonet.de>  Tue, 10 Dec 2019 23:41:00 +0100

@@ -1,0 +1,9 @@
+01_makefile-adds.patch
+03_keytab-lilo.8-debian-based.patch
+05_readme.disk-change.patch
+06_notinteractive.patch
+07_hardening-cflags+cppflags.patch
+08_small-typos-in-manpages.patch
+09_fix-manpage-lilo-conf-5.patch
+10_fix-manpage-lilo-conf-5.patch
+11_fix-gcc-10.patch

@@ -1,0 +1,18 @@
+sbin/lilo
+usr/sbin/mkrescue
+usr/sbin/keytab-lilo
+usr/sbin/liloconfig
+usr/sbin/lilo-uuid-diskid
+etc/kernel/post*
+etc/initramfs/post*
+boot/*.bmp                          usr/share/lilo/
+boot/*.dat                          usr/share/lilo/
+debian/update-lilo                  usr/sbin/
+debian/lilo-term.xpm                usr/share/pixmaps/
+debian/floppy/Makefile              usr/lib/lilo/floppy/
+src/bootsect.b                      usr/lib/lilo/floppy/
+src/disk.com                        usr/lib/lilo/floppy/
+hooks/kernel/postinst.d/chattr-lilo usr/lib/lilo/hooks/kernel/postinst.d/
+hooks/kernel/preinst.d/chattr-lilo  usr/lib/lilo/hooks/kernel/preinst.d/
+hooks/kernel/prerm.d/chattr-lilo    usr/lib/lilo/hooks/kernel/prerm.d/
+debian/hooks/Makefile               usr/lib/lilo/hooks/

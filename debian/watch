@@ -1,0 +1,4 @@
+# watch control file for uscan for the lilo package
+version=4
+opts=pgpsigurlmangle=s/$/.asc/  \
+  https://www.joonet.de/sources/lilo/lilo-(\d\d.+)\.tar\.gz

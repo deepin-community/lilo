@@ -1,0 +1,10 @@
+sbin
+usr/sbin
+usr/lib/lilo/floppy
+usr/share/pixmaps
+usr/share/lilo
+etc/initramfs
+etc/kernel
+usr/lib/lilo/hooks/kernel/postinst.d
+usr/lib/lilo/hooks/kernel/preinst.d
+usr/lib/lilo/hooks/kernel/prerm.d
